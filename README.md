@@ -11,5 +11,10 @@ This repository contains the Homework 3 for the ADM course. In particular:
   - `vocabulary.pkl` and `inverted_indx.pkl` are the dictionaries created as output of two functions of Q2
   - `master_urls.txt` is the list of urls created in Q1
   - `course_info.tsv` is the file containing the info parsed from the HTML pages for the 6000 master degrees
-- the file `CommandLine.sh` contains the executable script for the Command Line Question
+  - `merged_file.tsv` is merged tsv file of all course_i.tsv files created in point 1.
+  - `msc_file.tsv`is a merged file of all the MSc courses.
+  - `country_count.txt` is the name of the country that offers the most Master's Degrees.
+  - `city_count.txt` is the name of the city in that country that offers the most Master's Degrees.
+  - `engcourses.tsv` is the tsv file of all the engineering courses.
+- The file `CommandLine.sh` contains the executable script for the Command Line Question
   
