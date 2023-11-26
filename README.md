@@ -16,5 +16,7 @@ This repository contains the Homework 3 for the ADM course. In particular:
   - `country_count.txt` is the name of the country that offers the most Master's Degrees.
   - `city_count.txt` is the name of the city in that country that offers the most Master's Degrees.
   - `engcourses.tsv` is the tsv file of all the engineering courses.
-- The file `CommandLine.sh` contains the executable script for the Command Line Question
+- the file `CommandLine.sh` contains the executable script for the Command Line Question.
+
+(If you are interested in looking also at the downloaded html pages and the tsv files you can find them in the `master` branch, in the `master_pages` and `course_info` folders repectively)
   
