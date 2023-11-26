@@ -1,5 +1,6 @@
 # Homework 3 - ADM
 **Consider only the `main` branch.**
+Important: to visualize the output of the cells of the notebook you will most probably need to open in in trusted mode.
 
 This repository contains the Homework 3 for the ADM course. In particular:
 - the notebook `HW3.ipynb` is the notebook containing the answers to the questions of the homework
